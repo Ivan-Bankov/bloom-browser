@@ -10,4 +10,4 @@ First, you need to create and activate a virtual environment for the project. If
 ## How to use it:
 The browser is very easy to use. You can either use the Ecosia search bar or type the URL you want to go to in the top bar. If you leave out the *https://* at the start, the browser will automatically fill it in after you press the *Search* button. Once you've entered a website, you can either go back by pressing the *<* button or go forward by pressing *>*. Notice, you can only go forward if you've gone back first. It is important to note that pressing *Enter* while in the browser's search bar does not work.
 ## Credits:
-NeuralNine: https://youtu.be/v02KG5S_ESo
+NeuralNine: https://youtu.be/v02KG5S_ESo 
